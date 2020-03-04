@@ -13,7 +13,7 @@ Hangzhou
 ZJE | ZJUI
 ----------|----------
 ZJU-UOE| ZJU-UIUC
-Edinberg | ?
+Edinberg | America
  
 
 
