@@ -7,8 +7,8 @@ This is the first webpage I made.
 ！[image](https://octodex.github.com/images/yaktocat.png)
 > Zhejiang 
 Hangzhou
--[x]you know me
--[ ]you do not know me
-
+- [x] you know me
+- [ ] you do not know me
+ 
 
 
